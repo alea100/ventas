@@ -1,2 +1,2 @@
 # ventas
-colaboracion en proy ventas
+colaboracion en proy ventas para el proyecto de grado
